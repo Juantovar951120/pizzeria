@@ -43,7 +43,7 @@
                 android:id="@+id/textViewTituloTarjeta"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="¿CLASICAS O ESPECIALES ?"
+                android:text="¿CLASICAS O cambios?"
                 android:textAlignment="center"
                 android:textSize="18sp" />
 
