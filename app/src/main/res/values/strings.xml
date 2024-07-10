@@ -10,4 +10,8 @@
     <string name="registration_title">Registro de usuarios</string>
     <string name="name_hint">Nombre</string>
     <string name="title">Escoge tu pizza</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="price_format">%.2f</string>
 </resources>
